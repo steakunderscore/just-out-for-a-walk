@@ -2,7 +2,7 @@
 layout: page
 title: About The Walk
 image:
-  feature: PANO_20150217_122822.jpg
+  feature: IMG_20150510_080425.jpg
   credit: Henry Jnekins
   creditlink: http://henryjenkins.name
 comments: false
