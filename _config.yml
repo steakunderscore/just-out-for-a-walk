@@ -1,18 +1,16 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: hpstrtheme
+title:            Just Out For A Walk
+description:      Holly & Henry have some ramblings about life.
+disqus_shortname: ''
 reading_time:     true
 words_per_minute: 200
-# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
-# When testing locally leave blank or use http://localhost:4000
-url:
+url:              http://justoutforawalk.henryjenkins.name
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Holly & Henry
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            'A couple of engineers from little old New Zealand'
+  email:          justoutforawalk@henryjenkins.name
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
@@ -23,7 +21,7 @@ owner:
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:    
 
 # Background image to be tiled on all pages
 background: 
@@ -35,7 +33,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Pacific/Auckland
 future:      true
 highlighter: pygments
 markdown:    kramdown
