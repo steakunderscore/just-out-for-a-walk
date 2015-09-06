@@ -1,0 +1,56 @@
+---
+layout: post
+title: Las Vegas
+modified:
+categories:
+description: Our trip to Las Vegas (Hover Dam)
+tags: [USA,Vegas,Dams,Engineering]
+image:
+  feature: las-vegas/cover.jpg
+  credit: Henry Jenkins
+  creditlink: http://henryjenkins.name
+comments:
+share:
+date: 2015-07-28T13:57:01+12:00
+---
+Mitchel and Rochelle were kind enough to lend us their car for a couple of
+days, which meant it's Vegas time! Well, kind of. Actually wanted to see the
+Hoover dam.
+
+It was a pretty epic drive from Los Angeles to Las Vegas. It's not a drive I
+would want to do every day, but really cool coming from green New Zealand. The
+desert just keeps on going. It seemed like it would never end.
+
+After arriving in Vegas, we found somewhere to stay, had a look around. We
+booked in at a place which had a casino full of old people and smelt awful.
+Just a reminder as to how good New Zealand's smoking laws are.
+
+That evening we had a look around, checked out some of the buildings and Planet
+Hollywood. After which we caught a show.
+
+The next day came the main attraction, lake Mead and the Hoover Dam! It's a lot
+bigger than I had realised. We went on a power plant and dam tour. I won't
+describe it, it's all on Wikipedia. But here are some snaps.
+
+Driving in the states wasn't as bad as I thought it would be. Although it was
+quite intense rolling down the freeway at 80 MPH ( ~135 km/h ). But there is
+one thing I need to set straight before rumours are set and history is written.
+I was involved in a fender bender while driving. I had stopped for a red light
+when we were hit. The damage to Mitchel and Rochelle's car wasn't too bad, but
+I did feel bad for having it happen. On the bright side, the car made it to
+Vegas and it's all been covered by insurance.
+
+<img src="/images/las-vegas/IMG_20150720_233224.jpg" alt="Bellagio Fountains">
+
+<img src="/images/las-vegas/IMG_20150721_120053.jpg" alt="Hoover dam intakes">
+
+<img src="/images/las-vegas/IMG_20150721_120651.jpg" alt="Mike O'Callaghan–Pat Tillman Memorial Bridge">
+
+<img src="/images/las-vegas/IMG_20150721_120703.jpg" alt="The dam">
+
+<img src="/images/las-vegas/IMG_20150721_131650.jpg" alt="Dam build instructions">
+
+<img src="/images/las-vegas/IMG_20150721_134901.jpg" alt="Dam stairs">
+
+<img src="/images/las-vegas/IMG_20150721_161904.jpg" alt="Holly enjoying her shake">
+
