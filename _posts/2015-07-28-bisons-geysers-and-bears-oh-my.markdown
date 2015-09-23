@@ -9,6 +9,7 @@ image:
   feature: bisons-geysers-and-bears-oh-my/cover.jpg
   credit: Henry Jenkins
   creditlink: http://henryjenkins.name
+comments: false
 share:
 date: 2015-07-28T14:31:49+12:00
 ---
