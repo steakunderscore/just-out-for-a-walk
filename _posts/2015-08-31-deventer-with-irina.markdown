@@ -1,0 +1,43 @@
+---
+layout: post
+title: Deventer With Irina
+modified:
+categories: 
+description:
+tags: []
+image:
+  feature: 2015-08-31-deventer-with-irina/cover.jpg
+  credit: Henry Jenkins
+  creditlink: http://henryjenkins.name
+comments: false
+share:
+date: 2015-08-31T00:00:00+12:00
+---
+We took a turn away from the big citys to a small town called
+[Deventer](https://www.google.de/maps/place/Deventer,+Netherlands).
+
+Holly had jacked up a couch to sleep on with Irina. She is a Medical Doctor
+working in the local Hospital who liked to see some other young faces every
+once in a while.
+
+Deventer was a nice quite town. It even had an old story about boiling criminals in a pot of oil.
+
+<img src="/images/2015-08-31-deventer-with-irina/IMG_20150830_151435.jpg">
+
+<img src="/images/2015-08-31-deventer-with-irina/IMG_20150830_152528.jpg">
+
+<img src="/images/2015-08-31-deventer-with-irina/IMG_20150830_155703.jpg">
+
+<img src="/images/2015-08-31-deventer-with-irina/IMG_20150830_160220.jpg">
+
+<img src="/images/2015-08-31-deventer-with-irina/IMG_20150830_161757.jpg">
+
+<img src="/images/2015-08-31-deventer-with-irina/IMG_20150830_202157.jpg">
+
+<img src="/images/2015-08-31-deventer-with-irina/IMG_20150831_123019.jpg">
+
+<img src="/images/2015-08-31-deventer-with-irina/IMG_20150831_154239.jpg">
+
+<img src="/images/2015-08-31-deventer-with-irina/IMG_20150831_154245.jpg">
+
+<img src="/images/2015-08-31-deventer-with-irina/IMG_20150831_170337.jpg">
