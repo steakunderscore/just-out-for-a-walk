@@ -11,3 +11,6 @@ gem 'jekyll-sitemap'
 
 gem 'github-pages', versions['github-pages']
 
+group :development do
+  gem 'jekyll-docs'
+end
