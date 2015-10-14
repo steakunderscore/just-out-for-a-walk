@@ -10,7 +10,7 @@ image:
   credit: Henry Jenkins
   creditlink: http://henryjenkins.name
 comments: false
-share:
+share: true
 date: 2015-07-28T14:31:49+12:00
 ---
 What a wicked place, with such awesome people!

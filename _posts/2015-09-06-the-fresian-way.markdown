@@ -10,7 +10,7 @@ image:
   credit: Henry Jenkins
   creditlink: http://henryjenkins.name
 comments: false
-share: false
+share: true
 date: 2015-09-06T00:00:00+12:00
 ---
 

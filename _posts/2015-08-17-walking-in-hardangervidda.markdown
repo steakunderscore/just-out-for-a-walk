@@ -10,7 +10,7 @@ image:
   credit: Henry Jenkins
   creditlink: http://henryjenkins.name
 comments: false
-share:
+share: true
 date: 2015-08-17T07:39:16+12:00
 ---
 It was time to go Hiking!

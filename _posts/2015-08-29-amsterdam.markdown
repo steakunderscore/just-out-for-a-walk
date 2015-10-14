@@ -10,7 +10,7 @@ image:
   credit: Henry Jenkins
   creditlink: http://henryjenkins.name
 comments: false
-share:
+share: true
 date: 2015-08-29T03:21:22+12:00
 ---
 Amsterdam mostly consisted of walking and biking around the city, just being a

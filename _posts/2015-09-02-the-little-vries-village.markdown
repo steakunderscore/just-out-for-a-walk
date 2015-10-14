@@ -10,7 +10,7 @@ image:
   credit: Henry Jenkins
   creditlink: http://henryjenkins.name
 comments: false
-share: false
+share: true
 date: 2015-09-02T00:00:00+12:00
 ---
 After staying with Irina, we were keen to visit more people from The

@@ -10,7 +10,7 @@ image:
   credit:
   creditlink:
 comments: false
-share: false
+share: true
 date: 2015-08-24T16:00:00+12:00
 ---
 After our time in Hardangervidda we were ready for some rest and relaxation at
