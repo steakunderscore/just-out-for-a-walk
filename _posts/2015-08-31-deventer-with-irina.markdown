@@ -16,11 +16,12 @@ date: 2015-08-31T00:00:00+12:00
 We took a turn away from the big citys to a small town called
 [Deventer](https://www.google.de/maps/place/Deventer,+Netherlands).
 
-Holly had jacked up a couch to sleep on with Irina. She is a Medical Doctor
-working in the local Hospital who liked to see some other young faces every
-once in a while.
+Holly had jacked up a couch to sleep on with Irina, a medical doctor
+working in the local hospital.
 
-Deventer was a nice quite town. It even had an old story about boiling criminals in a pot of oil.
+Deventer was a nice, quiet town with an old story about boiling criminals in a pot of oil.
+
+We were lucky enough to be there for the annual bath-tub race where participants decorated bath-tubs and raced them on the river.
 
 <img src="/images/2015-08-31-deventer-with-irina/IMG_20150830_151435.jpg">
 

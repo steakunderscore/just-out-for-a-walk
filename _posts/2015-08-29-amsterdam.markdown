@@ -20,8 +20,8 @@ The first couple of days were spent just catching up on life after hiking in
 Norway. After having just finished reading Anne Frank's diary, it only made
 sense to visit the Annex.
 
-The following day we biked out to Amstelveen, mostly to get out of the tourists
-and take a look at some windmills. There was lots of cheese and a BBQ in the
+The following day we biked out to Amstelveen, mostly to get away from the hordes of tourists in Amsterdam
+and take a look at some windmills. The day ended with a delicious BBQ in the
 park.
 
 <img src="/images/amsterdam/IMG_20150826_123717.jpg">

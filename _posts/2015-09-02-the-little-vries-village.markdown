@@ -22,10 +22,9 @@ and cows while raising their family. Their jobs were both quite interesting,
 Jan a computer science lecture at the local university. Wietske an
 environmental science teacher.
 
-It was a shame, a couple of days before we arrived, Wietske was driving home
-with a friend when they had been crashed into. She was feeling the effects a
-bit and had to lie down from time to time. It also meant she could not ride a
-horse or bike.
+It was a shame, a couple of days before we arrived, Wietske was in a car accident while driving home
+with a friend. She was feeling the effects a bit and had to lie down from time to time. 
+It also meant she could not ride a horse or bike.
 
 Wietske normally would take visitors on a geological bike ride around the area,
 but instead this time drew a map and gave the explanations prior to us leaving.

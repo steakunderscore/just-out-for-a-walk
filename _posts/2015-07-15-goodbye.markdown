@@ -23,5 +23,3 @@ ceremony.
 <img src="/images/2015-07-15-goodbye/IMG_20150711_200750.jpg">
 
 <img src="/images/2015-07-15-goodbye/IMG_20150711_200813.jpg">
-
-<img src="/images/2015-07-15-goodbye/IMG_20150715_044940.jpg">

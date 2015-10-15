@@ -16,7 +16,7 @@ date: 2015-06-19T22:14:19+12:00
 
 # Holly, should we keep this?
 
-It's only when you go to move (well, remove in this case) you stuff, you
+It's only when you go to move (well, remove in this case) your stuff, you
 realise how much you have. A couple of bikes, dive gear, tramping kit. I still
 had my skis from last using them in Christchurch. We have spent a few weekends
 now selling stuff. Holly put a lot of work into getting the flat ready for flat
