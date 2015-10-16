@@ -6,7 +6,7 @@ categories: [packing, flatting]
 description: Some thoughts after days and weekends of preparing for departure.
 tags: [packing, flatting]
 image:
-  feature: IMG_20150619_222503.jpg
+  feature: 2015-06-19-packing-up/IMG_20150619_222503.jpg
   credit: Henry Jenkins
   creditlink: http://henryjenkins.name
 comments: false

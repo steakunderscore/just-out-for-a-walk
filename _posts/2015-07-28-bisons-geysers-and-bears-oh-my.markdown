@@ -6,7 +6,7 @@ categories:
 description:
 tags: []
 image:
-  feature: bisons-geysers-and-bears-oh-my/cover.jpg
+  feature: 2015-07-28-bisons-geysers-and-bears-oh-my/cover.jpg
   credit: Henry Jenkins
   creditlink: http://henryjenkins.name
 comments: false
@@ -33,44 +33,44 @@ deserves more pictures.
 It was an amazing time in the area. Only beaten by being able to spend quality
 time with family.
 
-<img src="/images/bisons-geysers-and-bears-oh-my/IMG_20150723_133638.jpg" alt="">
+<img src="/images/2015-07-28-bisons-geysers-and-bears-oh-my/IMG_20150723_133638.jpg" alt="">
 
-<img src="/images/bisons-geysers-and-bears-oh-my/IMG_20150723_133830.jpg" alt="">
+<img src="/images/2015-07-28-bisons-geysers-and-bears-oh-my/IMG_20150723_133830.jpg" alt="">
 
-<img src="/images/bisons-geysers-and-bears-oh-my/IMG_20150723_143718.jpg" alt="">
+<img src="/images/2015-07-28-bisons-geysers-and-bears-oh-my/IMG_20150723_143718.jpg" alt="">
 
-<img src="/images/bisons-geysers-and-bears-oh-my/IMG_20150723_150731.jpg" alt="">
+<img src="/images/2015-07-28-bisons-geysers-and-bears-oh-my/IMG_20150723_150731.jpg" alt="">
 
-<img src="/images/bisons-geysers-and-bears-oh-my/IMG_20150723_151035.jpg" alt="">
+<img src="/images/2015-07-28-bisons-geysers-and-bears-oh-my/IMG_20150723_151035.jpg" alt="">
 
-<img src="/images/bisons-geysers-and-bears-oh-my/IMG_20150723_154916.jpg" alt="">
+<img src="/images/2015-07-28-bisons-geysers-and-bears-oh-my/IMG_20150723_154916.jpg" alt="">
 
-<img src="/images/bisons-geysers-and-bears-oh-my/IMG_20150723_161054.jpg" alt="">
+<img src="/images/2015-07-28-bisons-geysers-and-bears-oh-my/IMG_20150723_161054.jpg" alt="">
 
-<img src="/images/bisons-geysers-and-bears-oh-my/IMG_20150723_181937.jpg" alt="">
+<img src="/images/2015-07-28-bisons-geysers-and-bears-oh-my/IMG_20150723_181937.jpg" alt="">
 
-<img src="/images/bisons-geysers-and-bears-oh-my/IMG_20150723_182052~2.jpg" alt="">
+<img src="/images/2015-07-28-bisons-geysers-and-bears-oh-my/IMG_20150723_182052~2.jpg" alt="">
 
-<img src="/images/bisons-geysers-and-bears-oh-my/IMG_20150723_192023.jpg" alt="">
+<img src="/images/2015-07-28-bisons-geysers-and-bears-oh-my/IMG_20150723_192023.jpg" alt="">
 
-<img src="/images/bisons-geysers-and-bears-oh-my/IMG_20150723_200422.jpg" alt="">
+<img src="/images/2015-07-28-bisons-geysers-and-bears-oh-my/IMG_20150723_200422.jpg" alt="">
 
-<img src="/images/bisons-geysers-and-bears-oh-my/IMG_20150724_104509.jpg" alt="">
+<img src="/images/2015-07-28-bisons-geysers-and-bears-oh-my/IMG_20150724_104509.jpg" alt="">
 
-<img src="/images/bisons-geysers-and-bears-oh-my/IMG_20150724_114132.jpg" alt="">
+<img src="/images/2015-07-28-bisons-geysers-and-bears-oh-my/IMG_20150724_114132.jpg" alt="">
 
-<img src="/images/bisons-geysers-and-bears-oh-my/IMG_20150724_122134.jpg" alt="">
+<img src="/images/2015-07-28-bisons-geysers-and-bears-oh-my/IMG_20150724_122134.jpg" alt="">
 
-<img src="/images/bisons-geysers-and-bears-oh-my/IMG_20150724_124052.jpg" alt="">
+<img src="/images/2015-07-28-bisons-geysers-and-bears-oh-my/IMG_20150724_124052.jpg" alt="">
 
-<img src="/images/bisons-geysers-and-bears-oh-my/IMG_20150724_191031.jpg" alt="">
+<img src="/images/2015-07-28-bisons-geysers-and-bears-oh-my/IMG_20150724_191031.jpg" alt="">
 
-<img src="/images/bisons-geysers-and-bears-oh-my/IMG_20150724_192043.jpg" alt="">
+<img src="/images/2015-07-28-bisons-geysers-and-bears-oh-my/IMG_20150724_192043.jpg" alt="">
 
-<img src="/images/bisons-geysers-and-bears-oh-my/IMG_20150725_072842.jpg" alt="">
+<img src="/images/2015-07-28-bisons-geysers-and-bears-oh-my/IMG_20150725_072842.jpg" alt="">
 
-<img src="/images/bisons-geysers-and-bears-oh-my/IMG_20150725_085705.jpg" alt="">
+<img src="/images/2015-07-28-bisons-geysers-and-bears-oh-my/IMG_20150725_085705.jpg" alt="">
 
-<img src="/images/bisons-geysers-and-bears-oh-my/IMG_20150725_092821.jpg" alt="">
+<img src="/images/2015-07-28-bisons-geysers-and-bears-oh-my/IMG_20150725_092821.jpg" alt="">
 
-<img src="/images/bisons-geysers-and-bears-oh-my/IMG_20150725_134239.jpg" alt="">
+<img src="/images/2015-07-28-bisons-geysers-and-bears-oh-my/IMG_20150725_134239.jpg" alt="">
