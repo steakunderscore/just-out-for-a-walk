@@ -36,21 +36,21 @@ It was also interesting hearing about Wietske's days as an environmental
 activist. She had plenty of stories to tell about her involvement with climate
 change issues and the protection of the Wadden Sea ecology.
 
-<img src="/images/2015-09-02-the-little-vries-village/IMG_20150902_120943.jpg">
+<img src="/images/2015-09-02-the-little-vries-village/IMG_20150902_120943_640px.jpg">
 
-<img src="/images/2015-09-02-the-little-vries-village/IMG_20150902_121648.jpg">
+<img src="/images/2015-09-02-the-little-vries-village/IMG_20150902_121648_640px.jpg">
 
-<img src="/images/2015-09-02-the-little-vries-village/IMG_20150902_121704.jpg">
+<img src="/images/2015-09-02-the-little-vries-village/IMG_20150902_121704_640px.jpg">
 
-<img src="/images/2015-09-02-the-little-vries-village/IMG_20150902_123442.jpg">
+<img src="/images/2015-09-02-the-little-vries-village/IMG_20150902_123442_640px.jpg">
 
-<img src="/images/2015-09-02-the-little-vries-village/IMG_20150902_123700.jpg">
+<img src="/images/2015-09-02-the-little-vries-village/IMG_20150902_123700_640px.jpg">
 
-<img src="/images/2015-09-02-the-little-vries-village/IMG_20150902_123908.jpg">
+<img src="/images/2015-09-02-the-little-vries-village/IMG_20150902_123908_640px.jpg">
 
-<img src="/images/2015-09-02-the-little-vries-village/IMG_20150902_124805.jpg">
+<img src="/images/2015-09-02-the-little-vries-village/IMG_20150902_124805_640px.jpg">
 
-<img src="/images/2015-09-02-the-little-vries-village/IMG_20150902_163556.jpg">
+<img src="/images/2015-09-02-the-little-vries-village/IMG_20150902_163556_640px.jpg">
 
-<img src="/images/2015-09-02-the-little-vries-village/FullSizeRender.jpg">
+<img src="/images/2015-09-02-the-little-vries-village/FullSizeRender_640px.jpg">
 

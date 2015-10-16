@@ -29,28 +29,28 @@ a crowd of several hundred people we got to listen to the good, the bad and the
 weird. It was held at Mauerpark where there was also a hipster flea market and
 a million buskers. The perfect place to spend a Sunday.
 
-<img src="/images/2015-09-29-kiwis-in-berlin/IMG_20150928_124829.jpg">
+<img src="/images/2015-09-29-kiwis-in-berlin/IMG_20150928_124829_640px.jpg">
 
-<img src="/images/2015-09-29-kiwis-in-berlin/IMG_20150925_140155.jpg">
+<img src="/images/2015-09-29-kiwis-in-berlin/IMG_20150925_140155_640px.jpg">
 
-<img src="/images/2015-09-29-kiwis-in-berlin/IMG_20150926_154029.jpg">
+<img src="/images/2015-09-29-kiwis-in-berlin/IMG_20150926_154029_640px.jpg">
 
-<img src="/images/2015-09-29-kiwis-in-berlin/IMG_20150928_135504.jpg">
+<img src="/images/2015-09-29-kiwis-in-berlin/IMG_20150928_135504_640px.jpg">
 
-<img src="/images/2015-09-29-kiwis-in-berlin/IMG_20150925_163504.jpg">
+<img src="/images/2015-09-29-kiwis-in-berlin/IMG_20150925_163504_640px.jpg">
 
-<img src="/images/2015-09-29-kiwis-in-berlin/IMG_20150925_135926.jpg">
+<img src="/images/2015-09-29-kiwis-in-berlin/IMG_20150925_135926_640px.jpg">
 
-<img src="/images/2015-09-29-kiwis-in-berlin/IMG_20150924_165313.jpg">
+<img src="/images/2015-09-29-kiwis-in-berlin/IMG_20150924_165313_640px.jpg">
 
-<img src="/images/2015-09-29-kiwis-in-berlin/IMG_20150926_152600.jpg">
+<img src="/images/2015-09-29-kiwis-in-berlin/IMG_20150926_152600_640px.jpg">
 
-<img src="/images/2015-09-29-kiwis-in-berlin/IMG_20150926_152148.jpg">
+<img src="/images/2015-09-29-kiwis-in-berlin/IMG_20150926_152148_640px.jpg">
 
-<img src="/images/2015-09-29-kiwis-in-berlin/IMG_20150924_164855.jpg">
+<img src="/images/2015-09-29-kiwis-in-berlin/IMG_20150924_164855_640px.jpg">
 
-<img src="/images/2015-09-29-kiwis-in-berlin/IMG_20150924_110651.jpg">
+<img src="/images/2015-09-29-kiwis-in-berlin/IMG_20150924_110651_640px.jpg">
 
-<img src="/images/2015-09-29-kiwis-in-berlin/IMG_20150924_113443.jpg">
+<img src="/images/2015-09-29-kiwis-in-berlin/IMG_20150924_113443_640px.jpg">
 
-<img src="/images/2015-09-29-kiwis-in-berlin/IMG_20150927_162023.jpg">
+<img src="/images/2015-09-29-kiwis-in-berlin/IMG_20150927_162023_640px.jpg">

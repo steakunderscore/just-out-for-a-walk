@@ -29,17 +29,17 @@ The Eastern Schelde storm surge barrier was impressive. It has a 4km stretch of
 huge sluice gates that allow the saltwater to still pass through but can be
 closed when needed.
 
-<img src="/images/2015-09-10-the-delta-works/IMG_20150908_141727.jpg">
+<img src="/images/2015-09-10-the-delta-works/IMG_20150908_141727_640px.jpg">
 
-<img src="/images/2015-09-10-the-delta-works/IMG_20150908_101641.jpg">
+<img src="/images/2015-09-10-the-delta-works/IMG_20150908_101641_640px.jpg">
 
-<img src="/images/2015-09-10-the-delta-works/IMG_20150908_112725.jpg">
+<img src="/images/2015-09-10-the-delta-works/IMG_20150908_112725_640px.jpg">
 
-<img src="/images/2015-09-10-the-delta-works/IMG_20150908_141350.jpg">
+<img src="/images/2015-09-10-the-delta-works/IMG_20150908_141350_640px.jpg">
 
-<img src="/images/2015-09-10-the-delta-works/IMG_20150908_101702.jpg">
+<img src="/images/2015-09-10-the-delta-works/IMG_20150908_101702_640px.jpg">
 
-<img src="/images/2015-09-10-the-delta-works/IMG_20150908_112632.jpg">
+<img src="/images/2015-09-10-the-delta-works/IMG_20150908_112632_640px.jpg">
 
-<img src="/images/2015-09-10-the-delta-works/IMG_20150908_100526.jpg">
+<img src="/images/2015-09-10-the-delta-works/IMG_20150908_100526_640px.jpg">
 

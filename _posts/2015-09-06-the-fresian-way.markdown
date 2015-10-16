@@ -50,21 +50,21 @@ The mud flats of the Wadden Sea are a protected World Heritage Site.
 Unfortunately the weather was too bad while we were there to go exploring
 so I think that one day we might have to find our way back to Holverd.....
 
-<img src="/images/2015-09-06-the-fresian-way/IMG_20150905_155002.jpg">
+<img src="/images/2015-09-06-the-fresian-way/IMG_20150905_155002_640px.jpg">
 
-<img src="/images/2015-09-06-the-fresian-way/IMG_20150903_160051.jpg">
+<img src="/images/2015-09-06-the-fresian-way/IMG_20150903_160051_640px.jpg">
 
-<img src="/images/2015-09-06-the-fresian-way/IMG_20150905_203741.jpg">
+<img src="/images/2015-09-06-the-fresian-way/IMG_20150905_203741_640px.jpg">
 
-<img src="/images/2015-09-06-the-fresian-way/IMG_20150905_132251.jpg">
+<img src="/images/2015-09-06-the-fresian-way/IMG_20150905_132251_640px.jpg">
 
-<img src="/images/2015-09-06-the-fresian-way/IMG_20150904_180933.jpg">
+<img src="/images/2015-09-06-the-fresian-way/IMG_20150904_180933_640px.jpg">
 
-<img src="/images/2015-09-06-the-fresian-way/IMG_20150905_132120.jpg">
+<img src="/images/2015-09-06-the-fresian-way/IMG_20150905_132120_640px.jpg">
 
-<img src="/images/2015-09-06-the-fresian-way/IMG_20150905_114320.jpg">
+<img src="/images/2015-09-06-the-fresian-way/IMG_20150905_114320_640px.jpg">
 
-<img src="/images/2015-09-06-the-fresian-way/IMG_20150904_190340.jpg">
+<img src="/images/2015-09-06-the-fresian-way/IMG_20150904_190340_640px.jpg">
 
-<img src="/images/2015-09-06-the-fresian-way/IMG_20150905_100202.jpg">
+<img src="/images/2015-09-06-the-fresian-way/IMG_20150905_100202_640px.jpg">
 

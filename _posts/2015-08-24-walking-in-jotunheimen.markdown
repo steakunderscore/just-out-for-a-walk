@@ -64,72 +64,72 @@ accessibility more than it's pure beauty.
 
 This all ended with a bus then flight to land us in Amsterdam.
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150814_152524.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150814_152524_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150817_131854.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150817_131854_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150818_161859.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150818_161859_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150819_160411.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150819_160411_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150820_095710.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150820_095710_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150820_104506.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150820_104506_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150820_133404.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150820_133404_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150820_151240.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150820_151240_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150820_160427.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150820_160427_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150821_113519.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150821_113519_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150821_132353.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150821_132353_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150821_133406.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150821_133406_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150821_143650.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150821_143650_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150821_151121.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150821_151121_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150821_151135.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150821_151135_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150821_152047.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150821_152047_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150821_153555.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150821_153555_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150822_130855.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150822_130855_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150822_152005.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150822_152005_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150822_153640.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150822_153640_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150823_081213.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150823_081213_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150823_081851.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150823_081851_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150823_082636.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150823_082636_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150823_101841.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150823_101841_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150823_104359.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150823_104359_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150824_061725.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150824_061725_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150824_092448.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150824_092448_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150824_093314.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150824_093314_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150824_093523.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150824_093523_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150824_100550.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150824_100550_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150824_102010.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150824_102010_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150824_105245.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150824_105245_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150824_142701.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/IMG_20150824_142701_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/PANO_20150821_151316.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/PANO_20150821_151316_640px.jpg">
 
-<img src="/images/2015-08-24-walking-in-jotunheimen/PANO_20150823_131458.jpg">
+<img src="/images/2015-08-24-walking-in-jotunheimen/PANO_20150823_131458_640px.jpg">

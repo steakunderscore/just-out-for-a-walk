@@ -35,16 +35,16 @@ Belgium army.
 After our meal we picked up some city bikes and explored the Antwerp
 night-life.
 
-<img src="/images/2015-09-13-port-of-antwerp/IMG_20150913_115853.jpg">
+<img src="/images/2015-09-13-port-of-antwerp/IMG_20150913_115853_640px.jpg">
 
-<img src="/images/2015-09-13-port-of-antwerp/IMG_20150913_104216.jpg">
+<img src="/images/2015-09-13-port-of-antwerp/IMG_20150913_104216_640px.jpg">
 
-<img src="/images/2015-09-13-port-of-antwerp/IMG_20150913_105023.jpg">
+<img src="/images/2015-09-13-port-of-antwerp/IMG_20150913_105023_640px.jpg">
 
-<img src="/images/2015-09-13-port-of-antwerp/IMG_20150913_104106.jpg">
+<img src="/images/2015-09-13-port-of-antwerp/IMG_20150913_104106_640px.jpg">
 
-<img src="/images/2015-09-13-port-of-antwerp/IMG_20150913_112331.jpg">
+<img src="/images/2015-09-13-port-of-antwerp/IMG_20150913_112331_640px.jpg">
 
-<img src="/images/2015-09-13-port-of-antwerp/IMG_20150913_112255.jpg">
+<img src="/images/2015-09-13-port-of-antwerp/IMG_20150913_112255_640px.jpg">
 
-<img src="/images/2015-09-13-port-of-antwerp/IMG_20150913_105307.jpg">
+<img src="/images/2015-09-13-port-of-antwerp/IMG_20150913_105307_640px.jpg">

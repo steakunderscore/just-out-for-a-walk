@@ -52,38 +52,38 @@ we enjoyed a glass or two.  The area around Kjeldebu was varied and great for
 exploring. On our free day we climbed one of the nearby hills where we got a
 primo view of the nearby glacier.
 
-<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150809_131602.jpg" alt="">
+<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150809_131602_640px.jpg" alt="">
 
-<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150809_135214.jpg" alt="">
+<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150809_135214_640px.jpg" alt="">
 
-<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150809_144835.jpg" alt="">
+<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150809_144835_640px.jpg" alt="">
 
-<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150809_181135.jpg" alt="">
+<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150809_181135_640px.jpg" alt="">
 
-<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150809_181212.jpg" alt="">
+<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150809_181212_640px.jpg" alt="">
 
-<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150810_100155.jpg" alt="">
+<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150810_100155_640px.jpg" alt="">
 
-<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150810_100334.jpg" alt="">
+<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150810_100334_640px.jpg" alt="">
 
-<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150810_100431.jpg" alt="">
+<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150810_100431_640px.jpg" alt="">
 
-<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150810_115611.jpg" alt="">
+<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150810_115611_640px.jpg" alt="">
 
-<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150810_120445.jpg" alt="">
+<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150810_120445_640px.jpg" alt="">
 
-<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150810_121006.jpg" alt="">
+<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150810_121006_640px.jpg" alt="">
 
-<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150810_154633.jpg" alt="">
+<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150810_154633_640px.jpg" alt="">
 
-<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150811_135217.jpg" alt="">
+<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150811_135217_640px.jpg" alt="">
 
-<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150811_141543.jpg" alt="">
+<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150811_141543_640px.jpg" alt="">
 
-<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150811_155045.jpg" alt="">
+<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150811_155045_640px.jpg" alt="">
 
-<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150811_171019.jpg" alt="">
+<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150811_171019_640px.jpg" alt="">
 
-<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150812_123207.jpg" alt="">
+<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150812_123207_640px.jpg" alt="">
 
-<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150812_131255.jpg" alt="">
+<img src="/images/2015-08-17-walking-in-hardangervidda/IMG_20150812_131255_640px.jpg" alt="">

@@ -24,16 +24,16 @@ We noticed a drop in the amount of english speakers in this town and Köln
 compared to our previous destinations. It was time to learn a few phrases in
 Deutsch.
 
-<img src="/images/2015-09-23-altstadtfest-in-nuremburg/IMG_20150921_180111.jpg">
+<img src="/images/2015-09-23-altstadtfest-in-nuremburg/IMG_20150921_180111_640px.jpg">
 
-<img src="/images/2015-09-23-altstadtfest-in-nuremburg/IMG_20150921_165432.jpg">
+<img src="/images/2015-09-23-altstadtfest-in-nuremburg/IMG_20150921_165432_640px.jpg">
 
-<img src="/images/2015-09-23-altstadtfest-in-nuremburg/IMG_20150923_123335.jpg">
+<img src="/images/2015-09-23-altstadtfest-in-nuremburg/IMG_20150923_123335_640px.jpg">
 
-<img src="/images/2015-09-23-altstadtfest-in-nuremburg/IMG_20150921_173800.jpg">
+<img src="/images/2015-09-23-altstadtfest-in-nuremburg/IMG_20150921_173800_640px.jpg">
 
-<img src="/images/2015-09-23-altstadtfest-in-nuremburg/IMG_20150921_163608.jpg">
+<img src="/images/2015-09-23-altstadtfest-in-nuremburg/IMG_20150921_163608_640px.jpg">
 
-<img src="/images/2015-09-23-altstadtfest-in-nuremburg/IMG_20150921_162534.jpg">
+<img src="/images/2015-09-23-altstadtfest-in-nuremburg/IMG_20150921_162534_640px.jpg">
 
-<img src="/images/2015-09-23-altstadtfest-in-nuremburg/IMG_20150923_122300.jpg">
+<img src="/images/2015-09-23-altstadtfest-in-nuremburg/IMG_20150923_122300_640px.jpg">

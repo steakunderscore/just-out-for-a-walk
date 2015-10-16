@@ -23,22 +23,22 @@ Deventer was a nice, quiet town with an old story about boiling criminals in a p
 
 We were lucky enough to be there for the annual bath-tub race where participants decorated bath-tubs and raced them on the river.
 
-<img src="/images/2015-08-31-deventer-with-irina/IMG_20150830_151435.jpg">
+<img src="/images/2015-08-31-deventer-with-irina/IMG_20150830_151435_640px.jpg">
 
-<img src="/images/2015-08-31-deventer-with-irina/IMG_20150830_152528.jpg">
+<img src="/images/2015-08-31-deventer-with-irina/IMG_20150830_152528_640px.jpg">
 
-<img src="/images/2015-08-31-deventer-with-irina/IMG_20150830_155703.jpg">
+<img src="/images/2015-08-31-deventer-with-irina/IMG_20150830_155703_640px.jpg">
 
-<img src="/images/2015-08-31-deventer-with-irina/IMG_20150830_160220.jpg">
+<img src="/images/2015-08-31-deventer-with-irina/IMG_20150830_160220_640px.jpg">
 
-<img src="/images/2015-08-31-deventer-with-irina/IMG_20150830_161757.jpg">
+<img src="/images/2015-08-31-deventer-with-irina/IMG_20150830_161757_640px.jpg">
 
-<img src="/images/2015-08-31-deventer-with-irina/IMG_20150830_202157.jpg">
+<img src="/images/2015-08-31-deventer-with-irina/IMG_20150830_202157_640px.jpg">
 
-<img src="/images/2015-08-31-deventer-with-irina/IMG_20150831_123019.jpg">
+<img src="/images/2015-08-31-deventer-with-irina/IMG_20150831_123019_640px.jpg">
 
-<img src="/images/2015-08-31-deventer-with-irina/IMG_20150831_154239.jpg">
+<img src="/images/2015-08-31-deventer-with-irina/IMG_20150831_154239_640px.jpg">
 
-<img src="/images/2015-08-31-deventer-with-irina/IMG_20150831_154245.jpg">
+<img src="/images/2015-08-31-deventer-with-irina/IMG_20150831_154245_640px.jpg">
 
-<img src="/images/2015-08-31-deventer-with-irina/IMG_20150831_170337.jpg">
+<img src="/images/2015-08-31-deventer-with-irina/IMG_20150831_170337_640px.jpg">

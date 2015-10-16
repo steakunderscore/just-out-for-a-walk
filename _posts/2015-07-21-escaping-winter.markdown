@@ -25,12 +25,12 @@ went to an american prom party, ate delicous tacos, went to a roof-top bar, saw
 the spaceship Endeavour. It was a really relaxing time and the perfect way to
 start our trip.
 
-<img src="/images/2015-07-21-escaping-winter/IMG_20150715_135628.jpg">
+<img src="/images/2015-07-21-escaping-winter/IMG_20150715_135628_640px.jpg">
 
-<img src="/images/2015-07-21-escaping-winter/IMG_20150717_115200.jpg">
+<img src="/images/2015-07-21-escaping-winter/IMG_20150717_115200_640px.jpg">
 
-<img src="/images/2015-07-21-escaping-winter/IMG_20150717_135335.jpg">
+<img src="/images/2015-07-21-escaping-winter/IMG_20150717_135335_640px.jpg">
 
-<img src="/images/2015-07-21-escaping-winter/IMG_20150717_211506.jpg">
+<img src="/images/2015-07-21-escaping-winter/IMG_20150717_211506_640px.jpg">
 
-<img src="/images/2015-07-21-escaping-winter/IMG_20150719_180506.jpg">
+<img src="/images/2015-07-21-escaping-winter/IMG_20150719_180506_640px.jpg">

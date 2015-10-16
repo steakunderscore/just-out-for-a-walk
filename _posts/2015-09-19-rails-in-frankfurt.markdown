@@ -27,4 +27,4 @@ Ruby on Rails. There was a group of about 50 girls (including Holly) and about
 After that we spent a nice time with Uli and Almuth hanging out and checking
 out the old style houses in their town and the Witches tower.
 
-<img src="/images/2015-09-19-rails-in-frankfurt/IMG_20150919_170813.jpg">
+<img src="/images/2015-09-19-rails-in-frankfurt/IMG_20150919_170813_640px.jpg">
