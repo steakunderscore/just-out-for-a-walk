@@ -1,0 +1,37 @@
+---
+layout: post
+title: Krakow
+modified:
+categories: 
+description:
+tags: []
+image:
+  feature: 2015-10-09-krakow/cover.jpg
+  credit: Henry Jenkins
+  creditlink: http://henryjenkins.name
+comments: false
+share: false
+date: 2015-10-09T00:00:00+13:00
+---
+
+<img src="/images/2015-10-09-krakow/IMG_20151005_180310_640px.jpg">
+
+<img src="/images/2015-10-09-krakow/IMG_20151006_113557_640px.jpg">
+
+<img src="/images/2015-10-09-krakow/IMG_20151006_114255_640px.jpg">
+
+<img src="/images/2015-10-09-krakow/IMG_20151006_124007_640px.jpg">
+
+<img src="/images/2015-10-09-krakow/IMG_20151006_124223_640px.jpg">
+
+<img src="/images/2015-10-09-krakow/IMG_20151007_112539_640px.jpg">
+
+<img src="/images/2015-10-09-krakow/IMG_20151007_194725_640px.jpg">
+
+<img src="/images/2015-10-09-krakow/IMG_20151008_171315_640px.jpg">
+
+<img src="/images/2015-10-09-krakow/IMG_20151009_182026_640px.jpg">
+
+<img src="/images/2015-10-09-krakow/IMG_20151009_193311_640px.jpg">
+
+<img src="/images/2015-10-09-krakow IMG_20151010_173057_640px.jpg">
