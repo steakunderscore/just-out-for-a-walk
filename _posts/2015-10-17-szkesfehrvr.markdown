@@ -15,7 +15,7 @@ date: 2015-10-17T00:00:00+13:00
 ---
 
 While in Szchesferhavar we stayed with a couch-surfer Eszter and her family.
-Their favorite near-by place was Lake Balaton so we took a day-trip out there
+Their favorite near-by place was Lake Balaton so we made a day-trip
 to check it out. The weather wasn't so good but the lake was nice to visit.
 
 After couch-surfing we went to a bed and breakfast run by a lady who couldn't
