@@ -6,9 +6,9 @@ categories: {{ dir }}
 description:
 tags: []
 image:
-  feature:
-  credit:
-  creditlink:
+  feature: {{ ymd }}-{{ slug }}/cover.jpg
+  credit: Henry Jenkins
+  creditlink: http://henryjenkins.name
 comments: false
 share: false
 ---
