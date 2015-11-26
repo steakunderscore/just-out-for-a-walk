@@ -56,6 +56,6 @@ people who made our visit here really good.
 
 <img src="/images/2015-10-17-szkesfehrvr/IMG_20151016_222339_640px.jpg">
 
-<img src="/images/2015-10-17-szkesfehrvr/IMG_20151016_225835_640px.jpg">
+<img src="/images/2015-10-17-szkesfehrvr/IMG_20151017_093706_640px.jpg">
 
 <img src="/images/2015-10-17-szkesfehrvr/IMG_20151017_082030_640px.jpg">
