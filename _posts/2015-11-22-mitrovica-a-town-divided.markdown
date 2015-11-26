@@ -13,12 +13,11 @@ comments: false
 share: false
 date: 2015-11-22T00:00:00+13:00
 ---
-
 Mitrovica is a town divided by a river and a turbulent history. On the south
 side of the bridge you are in Kosovo where the main population are Kosovo
 Albanians. On the north side you are still technically in Kosovo although the
 local population of Serbs will tell you differently. Then as you walk around
-the KFOR partrols and barriers to cross the bridge back into the south you are
+the KFOR patrols and barriers to cross the bridge back into the south you are
 then treated as being in Kosovo again.
 
 We stayed with a friend who had moved to Kosovo 2 months earlier to work in a
