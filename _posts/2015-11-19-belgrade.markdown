@@ -1,0 +1,49 @@
+---
+layout: post
+title: Belgrade
+modified:
+categories: 
+description:
+tags: []
+image:
+  feature: 2015-11-19-belgrade/cover.jpg
+  credit: Henry Jenkins
+  creditlink: http://henryjenkins.name
+comments: false
+share: false
+date: 2015-11-19T00:00:00+13:00
+---
+
+<img src="/images/2015-11-19-belgrade/IMG_20151114_102840_640px.jpg">
+
+<img src="/images/2015-11-19-belgrade/IMG_20151114_130927_640px.jpg">
+
+<img src="/images/2015-11-19-belgrade/IMG_20151114_160255_640px.jpg">
+
+<img src="/images/2015-11-19-belgrade/IMG_20151114_192832_640px.jpg">
+
+<img src="/images/2015-11-19-belgrade/IMG_20151114_194011_640px.jpg">
+
+<img src="/images/2015-11-19-belgrade/IMG_20151115_115444_640px.jpg">
+
+<img src="/images/2015-11-19-belgrade/IMG_20151116_094302_640px.jpg">
+
+<img src="/images/2015-11-19-belgrade/IMG_20151116_100143_640px.jpg">
+
+<img src="/images/2015-11-19-belgrade/IMG_20151116_132002_640px.jpg">
+
+<img src="/images/2015-11-19-belgrade/IMG_20151116_132337_640px.jpg">
+
+<img src="/images/2015-11-19-belgrade/IMG_20151117_120849_640px.jpg">
+
+<img src="/images/2015-11-19-belgrade/IMG_20151118_154912_640px.jpg">
+
+<img src="/images/2015-11-19-belgrade/IMG_20151118_161145_640px.jpg">
+
+<img src="/images/2015-11-19-belgrade/IMG_20151118_175758_640px.jpg">
+
+<img src="/images/2015-11-19-belgrade/IMG_20151118_180450_640px.jpg">
+
+<img src="/images/2015-11-19-belgrade/IMG_20151118_181558_640px.jpg">
+
+<img src="/images/2015-11-19-belgrade/IMG_20151118_181743_640px.jpg">
