@@ -2,7 +2,7 @@
 layout: post
 title: Belgrade
 modified:
-categories: 
+categories:
 description:
 tags: []
 image:
@@ -13,6 +13,12 @@ comments: false
 share: false
 date: 2015-11-19T00:00:00+13:00
 ---
+We found Belgrade to be an ugly city but a really fun place to be and hard to
+leave. Each morning for a week, we started the day by asking the hostel owner
+if we could stay just one more night.
+
+While here we went on a couple of tours, biked around the island, visited the
+Tesla museum and went out to visit a nearby town.
 
 <img src="/images/2015-11-19-belgrade/IMG_20151114_102840_640px.jpg">
 
