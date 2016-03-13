@@ -2,7 +2,7 @@
 layout: post
 title: Greece and Old Stuff
 modified:
-categories: 
+categories:
 description:
 tags: []
 image:

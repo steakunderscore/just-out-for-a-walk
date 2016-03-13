@@ -2,7 +2,7 @@
 layout: post
 title: Székesfehérvár
 modified:
-categories: 
+categories:
 description:
 tags: []
 image:

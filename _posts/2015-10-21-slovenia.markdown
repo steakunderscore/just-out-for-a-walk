@@ -2,7 +2,7 @@
 layout: post
 title: Slovenia
 modified:
-categories: 
+categories:
 description:
 tags: []
 image:

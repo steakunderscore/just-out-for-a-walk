@@ -2,7 +2,7 @@
 layout: post
 title: The Delta Works
 modified:
-categories: 
+categories:
 description:
 tags: []
 image:
@@ -10,7 +10,7 @@ image:
   credit: Henry Jenkins
   creditlink: http://henryjenkins.name
 comments: false
-share: true
+share: false
 date: 2015-09-10T00:00:00+12:00
 ---
 

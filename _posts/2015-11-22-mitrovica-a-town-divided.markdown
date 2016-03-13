@@ -2,7 +2,7 @@
 layout: post
 title: Mitrovica - a Town Divided
 modified:
-categories: 
+categories:
 description:
 tags: []
 image:

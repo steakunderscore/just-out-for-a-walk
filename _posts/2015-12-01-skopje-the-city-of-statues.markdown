@@ -3,7 +3,7 @@ layout: post
 title: Skopje - the City of Statues
 date: 2015-12-01T00:00:00+13:00
 modified:
-categories: 
+categories:
 description:
 tags: []
 image:

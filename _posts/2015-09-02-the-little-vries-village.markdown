@@ -2,7 +2,7 @@
 layout: post
 title: The Little Vries Village
 modified:
-categories: 
+categories:
 description:
 tags: []
 image:
@@ -10,7 +10,7 @@ image:
   credit: Henry Jenkins
   creditlink: http://henryjenkins.name
 comments: false
-share: true
+share: false
 date: 2015-09-02T00:00:00+12:00
 ---
 After staying with Irina, we were keen to visit more people from The
@@ -23,7 +23,7 @@ Jan a computer science lecture at the local university. Wietske an
 environmental science teacher.
 
 It was a shame, a couple of days before we arrived, Wietske was in a car accident while driving home
-with a friend. She was feeling the effects a bit and had to lie down from time to time. 
+with a friend. She was feeling the effects a bit and had to lie down from time to time.
 It also meant she could not ride a horse or bike.
 
 Wietske normally would take visitors on a geological bike ride around the area,

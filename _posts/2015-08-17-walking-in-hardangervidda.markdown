@@ -2,7 +2,7 @@
 layout: post
 title: Walking in Hardangervidda
 modified:
-categories: 
+categories:
 description:
 tags: []
 image:
@@ -10,7 +10,7 @@ image:
   credit: Henry Jenkins
   creditlink: http://henryjenkins.name
 comments: false
-share: true
+share: false
 date: 2015-08-17T07:39:16+12:00
 ---
 It was time to go Hiking!
@@ -21,7 +21,7 @@ have gas for cooking and duvets for sleeping. We did not have to take much gear
 and so our bags were nice and light.  DNT is the trekking association for
 Norway and they mark tracks and provide lots of well maintained huts around the
 country.  Tracks are marked with a red T, often painted on a cairn. For our
-trip to Hardangervidda we walked on DNT marked tracks and stayed in DNT huts. 
+trip to Hardangervidda we walked on DNT marked tracks and stayed in DNT huts.
 
 
 Hardangervidda is a large mountain plateau in central southern Norway. Once we
@@ -33,13 +33,13 @@ the same level as lush green bush. Apparently they had a much colder summer
 than normal and there wasn't normally this much snow around.
 
 The walk started off well with a friendly sheep greeting us at the start of the
-track.  We wondered for a moment if we were back in New Zealand.... 
+track.  We wondered for a moment if we were back in New Zealand....
 
 
 The first hut we stayed in was called Krakkja. It took many Norwegians to get
 us to pronounce this correctly. This area is famous for having large herds of
 reindeer, unfortunately not at the time of year that we were there. Near to the
-hut there were a couple of historic reindeer traps and reindeer bones. 
+hut there were a couple of historic reindeer traps and reindeer bones.
 
 We spent a couple of nights at the second hut called Kjeldebu. There we met the
 man who looks after the hut maintenance and sets the ski tracks in the winter.

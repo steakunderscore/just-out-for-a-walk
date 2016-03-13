@@ -2,7 +2,7 @@
 layout: post
 title: The Fresian Way
 modified:
-categories: 
+categories:
 description:
 tags: []
 image:
@@ -10,7 +10,7 @@ image:
   credit: Henry Jenkins
   creditlink: http://henryjenkins.name
 comments: false
-share: true
+share: false
 date: 2015-09-06T00:00:00+12:00
 ---
 
@@ -43,7 +43,7 @@ also a time to organise some local politics. While most people were nervous to
 speak English, it was still nice to meet a few of them. The food was good
 community food, with a local style potato salad and cook your own BBQ. The BBQs
 were outside under two umbrellas. Instead of one or two people cooking there would
-be about 10-15 people at a time, huddled under the umbrellas, cooking their own 
+be about 10-15 people at a time, huddled under the umbrellas, cooking their own
 kebabs or steaks. It was a very social way to BBQ.
 
 The mud flats of the Wadden Sea are a protected World Heritage Site.

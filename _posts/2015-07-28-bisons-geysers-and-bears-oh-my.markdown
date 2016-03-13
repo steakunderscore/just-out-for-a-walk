@@ -2,7 +2,7 @@
 layout: post
 title: Bisons, Geysers and Bears! Oh My!
 modified:
-categories: 
+categories:
 description:
 tags: []
 image:
@@ -10,7 +10,7 @@ image:
   credit: Henry Jenkins
   creditlink: http://henryjenkins.name
 comments: false
-share: true
+share: false
 date: 2015-07-28T14:31:49+12:00
 ---
 What a wicked place, with such awesome people!

@@ -2,7 +2,7 @@
 layout: post
 title: Krakow
 modified:
-categories: 
+categories:
 description:
 tags: []
 image:

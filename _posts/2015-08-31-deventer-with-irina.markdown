@@ -2,7 +2,7 @@
 layout: post
 title: Deventer With Irina
 modified:
-categories: 
+categories:
 description:
 tags: []
 image:
@@ -10,7 +10,7 @@ image:
   credit: Henry Jenkins
   creditlink: http://henryjenkins.name
 comments: false
-share: true
+share: false
 date: 2015-08-31T00:00:00+12:00
 ---
 We took a turn away from the big citys to a small town called

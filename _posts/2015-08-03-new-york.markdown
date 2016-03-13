@@ -10,7 +10,7 @@ image:
   credit: Henry Jenkins
   creditlink: http://henryjenkins.name
 comments: false
-share: true
+share: false
 date: 2015-08-03T00:00:00+12:00
 ---
 New York was, as you would expect, a very cool city.

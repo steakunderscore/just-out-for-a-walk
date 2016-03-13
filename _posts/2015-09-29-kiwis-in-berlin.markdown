@@ -2,7 +2,7 @@
 layout: post
 title: Kiwis in Berlin
 modified:
-categories: 
+categories:
 description:
 tags: []
 image:
@@ -10,7 +10,7 @@ image:
   credit: Henry Jenkins
   creditlink: http://henryjenkins.name
 comments: false
-share: true
+share: false
 date: 2015-09-29T00:00:00+13:00
 ---
 In Berlin we stayed with Simon, Lena and Joseph. Simon was an old work-mate of
