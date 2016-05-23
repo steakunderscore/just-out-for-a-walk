@@ -3,7 +3,7 @@ layout: page
 title: About The Walk
 image:
   feature: about.jpg
-  credit: Henry Jnekins
+  credit: Henry Jenkins
   creditlink: http://henryjenkins.name
 comments: false
 modified: 2015-06-19
