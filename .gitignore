@@ -2,3 +2,5 @@ _site
 node_modules
 .sass-cache
 _deploy.yml
+vendor/bundle
+.bundle
