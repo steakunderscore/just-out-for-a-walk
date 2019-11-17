@@ -36,7 +36,7 @@ timezone:    Pacific/Auckland
 future:      true
 highlighter: rouge
 markdown:    kramdown
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-paginate
 sass:
