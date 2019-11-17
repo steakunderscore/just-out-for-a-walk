@@ -8,7 +8,7 @@ tags: []
 image:
   feature: 2015-09-13-port-of-antwerp/cover.jpg
   credit: Henry Jenkins
-  creditlink: http://henryjenkins.name
+  creditlink: https://henryjenkins.name
 comments: false
 share: false
 date: 2015-09-13T00:00:00+12:00

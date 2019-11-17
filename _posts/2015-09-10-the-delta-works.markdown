@@ -8,7 +8,7 @@ tags: []
 image:
   feature: 2015-09-10-the-delta-works/cover.jpg
   credit: Henry Jenkins
-  creditlink: http://henryjenkins.name
+  creditlink: https://henryjenkins.name
 comments: false
 share: false
 date: 2015-09-10T00:00:00+12:00

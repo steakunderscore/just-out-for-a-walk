@@ -8,7 +8,7 @@ tags: []
 image:
   feature: 2015-07-28-bisons-geysers-and-bears-oh-my/cover.jpg
   credit: Henry Jenkins
-  creditlink: http://henryjenkins.name
+  creditlink: https://henryjenkins.name
 comments: false
 share: false
 date: 2015-07-28T14:31:49+12:00

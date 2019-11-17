@@ -8,7 +8,7 @@ tags: []
 image:
   feature: 2015-08-17-walking-in-hardangervidda/cover.jpg
   credit: Henry Jenkins
-  creditlink: http://henryjenkins.name
+  creditlink: https://henryjenkins.name
 comments: false
 share: false
 date: 2015-08-17T07:39:16+12:00

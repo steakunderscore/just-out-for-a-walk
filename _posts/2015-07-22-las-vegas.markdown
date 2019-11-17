@@ -8,7 +8,7 @@ tags: [USA,Vegas,Dams,Engineering]
 image:
   feature: 2015-07-22-las-vegas/cover.jpg
   credit: Henry Jenkins
-  creditlink: http://henryjenkins.name
+  creditlink: https://henryjenkins.name
 comments: false
 share: false
 date: 2015-07-28T13:57:01+12:00

@@ -9,7 +9,7 @@ tags: []
 image:
   feature: 2015-12-01-skopje-the-city-of-statues/cover.jpg
   credit: Henry Jenkins
-  creditlink: http://henryjenkins.name
+  creditlink: https://henryjenkins.name
 comments: false
 share: false
 ---

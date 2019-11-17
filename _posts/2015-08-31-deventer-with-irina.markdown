@@ -8,7 +8,7 @@ tags: []
 image:
   feature: 2015-08-31-deventer-with-irina/cover.jpg
   credit: Henry Jenkins
-  creditlink: http://henryjenkins.name
+  creditlink: https://henryjenkins.name
 comments: false
 share: false
 date: 2015-08-31T00:00:00+12:00

@@ -8,7 +8,7 @@ tags: []
 image:
   feature: 2015-11-22-mitrovica-a-town-divided/cover.jpg
   credit: Henry Jenkins
-  creditlink: http://henryjenkins.name
+  creditlink: https://henryjenkins.name
 comments: false
 share: false
 date: 2015-11-22T00:00:00+13:00

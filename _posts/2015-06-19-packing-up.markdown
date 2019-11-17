@@ -8,7 +8,7 @@ tags: [packing, flatting]
 image:
   feature: 2015-06-19-packing-up/cover.jpg
   credit: Henry Jenkins
-  creditlink: http://henryjenkins.name
+  creditlink: https://henryjenkins.name
 comments: false
 share: false
 date: 2015-06-19T22:14:19+12:00

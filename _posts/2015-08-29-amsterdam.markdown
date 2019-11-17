@@ -8,7 +8,7 @@ tags: []
 image:
   feature: 2015-08-29-amsterdam/cover.jpg
   credit: Henry Jenkins
-  creditlink: http://henryjenkins.name
+  creditlink: https://henryjenkins.name
 comments: false
 share: false
 date: 2015-08-29T03:21:22+12:00

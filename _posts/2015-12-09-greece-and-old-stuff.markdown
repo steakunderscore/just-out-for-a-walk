@@ -8,7 +8,7 @@ tags: []
 image:
   feature: 2015-12-09-greece-and-old-stuff/cover.jpg
   credit: Henry Jenkins
-  creditlink: http://henryjenkins.name
+  creditlink: https://henryjenkins.name
 comments: false
 share: false
 date: 2015-12-09T00:00:00+13:00

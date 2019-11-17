@@ -8,7 +8,7 @@ tags: []
 image:
   feature: 2015-07-21-escaping-winter/cover.jpg
   credit: Henry Jenkins
-  creditlink: http://henryjenkins.name
+  creditlink: https://henryjenkins.name
 comments: false
 share: false
 date: 2015-07-21T00:00:00+12:00

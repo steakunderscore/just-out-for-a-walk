@@ -2,7 +2,7 @@ title:            Just Out For A Walk
 description:      Holly and Henry have some ramblings about life.
 reading_time:     true
 words_per_minute: 200
-url:              http://justoutforawalk.henryjenkins.name
+url:              //justoutforawalk.henryjenkins.name
 
 # Owner/author information
 owner:
@@ -31,7 +31,7 @@ google_verify:      ll6X9tQnAAWEusHcn_KkNBnbsmyIvb3IZgBmrDlW5O0
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Pacific/Auckland
 future:      true
 highlighter: rouge
