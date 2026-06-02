@@ -2,13 +2,13 @@ title:            Just Out For A Walk
 description:      Holly and Henry have some ramblings about life.
 reading_time:     true
 words_per_minute: 200
-url:              //justoutforawalk.henryjenkins.name
+url:              https://justoutforawalk.henryjenkins.name
 
 # Owner/author information
 owner:
   name:           Holly and Henry
   avatar:         avatar.jpg
-  bio:            'A couple of engineers from little old New Zealand'
+  bio:           'A couple of engineers from little old New Zealand'
   email:          henry+holly@henryjenkins.name
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
@@ -37,6 +37,8 @@ markdown:    kramdown
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
 sass:
   sass_dir: _sass
   style: compressed
